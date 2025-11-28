@@ -4,10 +4,10 @@
 
 ![Arquitectura del Sistema](./images/system_architecture_diagram_1764274231828.png)
 
-**Sistema Integral de Evaluación de Daños y Análisis de Necesidades para Protección Civil**
+**Sistema Integral de Evaluación de Daños y Análisis de Necesidades para Venezuela y el Mundo**
 
 [![Estado](https://img.shields.io/badge/Estado-En%20Producción-success)](https://github.com)
-[![Versión](https://img.shields.io/badge/Versión-1.2-blue)](https://github.com)
+[![Versión](https://img.shields.io/badge/Versión-1.0-blue)](https://github.com)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
 
 [Características](#-características-principales) • [Tecnologías](#-tecnologías-utilizadas) • [Instalación](#-instalación) • [Uso](#-guía-de-uso) • [Contribuir](#-contribuir)
@@ -48,7 +48,7 @@ Ser la herramienta tecnológica estándar a nivel nacional para la gestión de i
 
 #### Misión
 
-Empoderar a los organismos de Protección Civil con una plataforma digital robusta que optimice la evaluación de daños y el análisis de necesidades, permitiendo una respuesta más rápida y coordinada.
+Empoderar a los organismos de Protección Civil de toda Venezuela  con una plataforma digital robusta que optimice la evaluación de daños y el análisis de necesidades, permitiendo una respuesta más rápida y coordinada y lo mas importante ayudar de una manera mucho mas rapida a toda cumnidad que lo necesite.
 
 ---
 
